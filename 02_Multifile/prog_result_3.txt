@@ -1,0 +1,5 @@
+4: <INIT>
+5: hello
+6: world
+7: !
+8: <DONE>
