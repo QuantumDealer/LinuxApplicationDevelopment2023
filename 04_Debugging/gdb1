@@ -1,0 +1,9 @@
+b 35
+b 37
+run 1 12 >/dev/null
+watch i/5
+c
+info locals
+c
+info locals
+c
